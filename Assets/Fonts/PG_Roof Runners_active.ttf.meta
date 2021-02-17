@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 427befe1f6cac904a8f8f9d1072b4325
+timeCreated: 1528892449
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roof runners active
+  fontNames:
+  - Roof runners active
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
